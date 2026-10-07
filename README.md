@@ -67,7 +67,7 @@ The **Student Grade Management System** is a console-driven Java application des
 ## Project Structure
 
 ```
-JAVA_PROJECT_ADITI/
+JAVA_PROJECT_/
 │
 ├── src/
 │   ├── models/
@@ -289,7 +289,7 @@ Testing is performed manually through the console interface. Scenarios covered:
 
 ## Author
 
-**Ayushi** — *JAVA_PROJECT_ADITI*
+**Ayushi** — *JAVA_PROJECT_*
 
 [![GitHub](https://img.shields.io/badge/GitHub-AzhaanGlitch-181717?style=for-the-badge&logo=github)](https://github.com/AzhaanGlitch/VITyarthi-Project)
 
